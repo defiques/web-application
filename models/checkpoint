@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\wamp64\\www\\dip\\models\\model.ckpt"
+all_model_checkpoint_paths: "D:\\wamp64\\www\\dip\\models\\model.ckpt"
